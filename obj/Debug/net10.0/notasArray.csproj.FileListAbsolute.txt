@@ -1,0 +1,15 @@
+D:\clase pro full\c#\notasArray\bin\Debug\net10.0\notasArray.exe
+D:\clase pro full\c#\notasArray\bin\Debug\net10.0\notasArray.deps.json
+D:\clase pro full\c#\notasArray\bin\Debug\net10.0\notasArray.runtimeconfig.json
+D:\clase pro full\c#\notasArray\bin\Debug\net10.0\notasArray.dll
+D:\clase pro full\c#\notasArray\bin\Debug\net10.0\notasArray.pdb
+D:\clase pro full\c#\notasArray\obj\Debug\net10.0\notasArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\clase pro full\c#\notasArray\obj\Debug\net10.0\notasArray.AssemblyInfoInputs.cache
+D:\clase pro full\c#\notasArray\obj\Debug\net10.0\notasArray.AssemblyInfo.cs
+D:\clase pro full\c#\notasArray\obj\Debug\net10.0\notasArray.csproj.CoreCompileInputs.cache
+D:\clase pro full\c#\notasArray\obj\Debug\net10.0\notasArray.sourcelink.json
+D:\clase pro full\c#\notasArray\obj\Debug\net10.0\notasArray.dll
+D:\clase pro full\c#\notasArray\obj\Debug\net10.0\refint\notasArray.dll
+D:\clase pro full\c#\notasArray\obj\Debug\net10.0\notasArray.pdb
+D:\clase pro full\c#\notasArray\obj\Debug\net10.0\notasArray.genruntimeconfig.cache
+D:\clase pro full\c#\notasArray\obj\Debug\net10.0\ref\notasArray.dll
